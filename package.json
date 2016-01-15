@@ -1,0 +1,20 @@
+{
+  "name": "pretty-log",
+  "version": "2.0.0",
+  "description": "Pretty prints to console in node apps",
+  "main": "pretty-log.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/callmenick/pretty-log.git"
+  },
+  "author": "Nick Salloum <nick@callmenick.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/callmenick/pretty-log/issues"
+  },
+  "homepage": "https://github.com/callmenick/pretty-log#readme",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "dateformat": "^1.0.12"
+  }
+}
