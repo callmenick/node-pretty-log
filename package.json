@@ -2,7 +2,7 @@
   "name": "node-pretty-log",
   "version": "1.0.0",
   "description": "Pretty logs stuff to the console in Node apps.",
-  "main": "node-pretty-log.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/callmenick/node-pretty-log.git"
